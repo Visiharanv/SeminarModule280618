@@ -83,7 +83,7 @@ table 123456701 "CSD Seminar"
             Caption = 'Seminar Price';
             AutoFormatType=1;
         }
-
+ 
         field(110;"Gen. Prod. Posting Group";code[10]) 
         { 
             Caption='Gen. Prod. Posting Group'; 
