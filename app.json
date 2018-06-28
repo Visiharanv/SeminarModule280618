@@ -1,0 +1,26 @@
+{
+  "id": "181c08b8-195e-480a-b54e-21f754e84f20",
+  "name": "SeminarModule",
+  "publisher": "Cup of Code Developer",
+  "brief": "A extension for seminar",
+  "description": "A extension for seminar",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 123456700,
+    "to": 123456799
+  }
+}
