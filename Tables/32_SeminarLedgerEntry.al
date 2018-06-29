@@ -3,8 +3,15 @@ table 123456732 "CSD Seminar Ledger Entry"
     // CSD1.00 - 2018-01-01 - D. E. Veloper
     //   Chapter 7 - Lab 1
     //     - Created new table
+    // Chapter 8 - Lab 2-1 
+    //   Added key2
+
+    // Chapter 8 - Lab 2 - 3 
+    // Added LookupPageId & DrilldownPageId properties
 
     Caption = 'Seminar Ledger Entry';
+    LookupPageId = "CSD Seminar Ledger Entries";
+    DrillDownPageId = "CSD Seminar Ledger Entries";
 
     fields
     {
@@ -160,6 +167,11 @@ table 123456732 "CSD Seminar Ledger Entry"
     {
         key(Key1;"Entry No.")
         {
+        }
+
+        key(Key2;"Document No.","Posting Date")
+        {
+
         }
     }
 }
