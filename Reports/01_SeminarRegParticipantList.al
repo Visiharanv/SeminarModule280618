@@ -87,16 +87,6 @@ report 123456701 "CSD SeminarRegParticipantList"
                 }
             }
         }
-    
-        actions
-        {
-            area(processing)
-            {
-                action(ActionName)
-                {
-                }
-            }
-        }
     }
     
     labels
