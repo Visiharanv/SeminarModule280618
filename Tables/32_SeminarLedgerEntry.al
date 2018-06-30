@@ -7,7 +7,7 @@ table 123456732 "CSD Seminar Ledger Entry"
     //   Added key2
 
     // Chapter 8 - Lab 2 - 3 
-    // Added LookupPageId & DrilldownPageId properties
+    // Added LookupPageId & DrilldownPageId properties 
 
     Caption = 'Seminar Ledger Entry';
     LookupPageId = "CSD Seminar Ledger Entries";
